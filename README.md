@@ -72,7 +72,7 @@ python student_grade_management.py
 
 # output
 
-
+<img width="1920" height="1030" alt="Image" src="https://github.com/user-attachments/assets/e9c3230b-ca88-4636-a81c-e7ce93679689" />
 
 # 🚀 Future Improvements
 

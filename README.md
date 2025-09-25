@@ -62,7 +62,7 @@ Bob: 45.0 -> Grade F
 
 Clone this repository:
 
-git clone https://github.com/your-username/student-grade-management.git
+git clone https://github.com/meysiii/STUDENT-GRADE-MANAGEMENT-SHEET
 cd student-grade-management
 
 
